@@ -1,0 +1,448 @@
+HTTP/2 200
+Content-Type: application/json; charset=utf-8
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+
+[
+    {
+      "id": 1,
+      "first_name": "Dewi",
+      "last_name": "Sulistiani",
+      "location": "POINT(110.4148 -6.9932)",
+      "experience_years": 5,
+      "photo": "https://randomuser.me/api/portraits/women/29.jpg",
+      "age": 28,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.2,
+      "services": [
+        {
+          "id": 1,
+          "name": "Deep Tissue Massage"
+        },
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Budi",
+      "last_name": "Santoso",
+      "location": "POINT(110.3931 -7.0256)",
+      "experience_years": 7,
+      "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+      "age": 30,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.5,
+      "services": [
+        {
+          "id": 3,
+          "name": "Hot Stone Massage"
+        },
+        {
+          "id": 4,
+          "name": "Aromatherapy Massage"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Siti",
+      "last_name": "Rahayu",
+      "location": "POINT(110.3940 -6.9953)",
+      "experience_years": 6,
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+      "age": 29,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.1,
+      "services": [
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        },
+        {
+          "id": 5,
+          "name": "Reflexology"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Raden",
+      "last_name": "Widodo",
+      "location": "POINT(110.4032 -7.0162)",
+      "experience_years": 8,
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+      "age": 32,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.4,
+      "services": [
+        {
+          "id": 6,
+          "name": "Facial Treatments"
+        },
+        {
+          "id": 7,
+          "name": "Body Scrubs and Wraps"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Rini",
+      "last_name": "Susanti",
+      "location": "POINT(110.4086 -6.9883)",
+      "experience_years": 4,
+      "photo": "https://randomuser.me/api/portraits/women/11.jpg",
+      "age": 27,
+      "gender": "female",
+      "is_available": false,
+      "rating" 4.2,
+      "services": [
+        {
+          "id": 1,
+          "name": "Deep Tissue Massage"
+        },
+        {
+          "id": 8,
+          "name": "Acupuncture"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "first_name": "Danu",
+      "last_name": "Santoso",
+      "location": "POINT(110.3963 -6.9944)",
+      "experience_years": 5,
+      "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+      "age": 28,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.0,
+      "services": [
+        {
+          "id": 4,
+          "name": "Aromatherapy Massage"
+        },
+        {
+          "id": 5,
+          "name": "Reflexology"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "first_name": "Ratna",
+      "last_name": "Wijaya",
+      "location": "POINT(110.4012 -7.0116)",
+      "experience_years": 9,
+      "photo": "https://randomuser.me/api/portraits/women/13.jpg",
+      "age": 31,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.4,
+      "services": [
+        {
+          "id": 3,
+          "name": "Hot Stone Massage"
+        },
+        {
+          "id": 6,
+          "name": "Facial Treatments"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "first_name": "Hendri",
+      "last_name": "Santoso",
+      "location": "POINT(110.4058 -7.0213)",
+      "experience_years": 6,
+      "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+      "age": 30,
+      "gender": "male",
+      "is_available": false,
+      "rating" 4.7,
+      "services": [
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        },
+        {
+          "id": 7,
+          "name": "Body Scrubs and Wraps"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "first_name": "Anita",
+      "last_name": "Rahayu",
+      "location": "POINT(110.4140 -6.9945)",
+      "experience_years": 3,
+      "photo": "https://randomuser.me/api/portraits/women/15.jpg",
+      "age": 26,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.8,
+      "services": [
+        {
+          "id": 5,
+          "name": "Reflexology"
+        },
+        {
+          "id": 8,
+          "name": "Acupuncture"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "first_name": "Andi",
+      "last_name": "Widodo",
+      "location": "POINT(110.4019 -7.0080)",
+      "experience_years": 4,
+      "photo": "https://randomuser.me/api/portraits/men/16.jpg",
+      "age": 27,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.8,
+      "services": [
+        {
+          "id": 1,
+          "name": "Deep Tissue Massage"
+        },
+        {
+          "id": 6,
+          "name": "Facial Treatments"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "first_name": "Lina",
+      "last_name": "Susanti",
+      "location": "POINT(110.4067 -7.0021)",
+      "experience_years": 6,
+      "photo": "https://randomuser.me/api/portraits/women/17.jpg",
+      "age": 29,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.1,
+      "services": [
+        {
+          "id": 3,
+          "name": "Hot Stone Massage"
+        },
+        {
+          "id": 7,
+          "name": "Body Scrubs and Wraps"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "first_name": "Herman",
+      "last_name": "Setiawan",
+      "location": "POINT(110.3995 -6.9998)",
+      "experience_years": 8,
+      "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+      "age": 31,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.2,
+      "services": [
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        },
+        {
+          "id": 8,
+          "name": "Acupuncture"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "first_name": "Ratna",
+      "last_name": "Widodo",
+      "location": "POINT(110.4098 -7.0221)",
+      "experience_years": 5,
+      "photo": "https://randomuser.me/api/portraits/women/19.jpg",
+      "age": 28,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.3,
+      "services": [
+        {
+          "id": 4,
+          "name": "Aromatherapy Massage"
+        },
+        {
+          "id": 5,
+          "name": "Reflexology"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "first_name": "Hendri",
+      "last_name": "Sulistianto",
+      "location": "POINT(110.3992 -6.9965)",
+      "experience_years": 9,
+      "photo": "https://randomuser.me/api/portraits/men/20.jpg",
+      "age": 31,
+      "gender": "male",
+      "is_available": false,
+      "rating" 4.7,
+      "services": [
+        {
+          "id": 1,
+          "name": "Deep Tissue Massage"
+        },
+        {
+          "id": 6,
+          "name": "Facial Treatments"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "first_name": "Rina",
+      "last_name": "Wijaya",
+      "location": "POINT(110.4117 -6.9873)",
+      "experience_years": 6,
+      "photo": "https://randomuser.me/api/portraits/women/21.jpg",
+      "age": 29,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.5,
+      "services": [
+        {
+          "id": 3,
+          "name": "Hot Stone Massage"
+        },
+        {
+          "id": 7,
+          "name": "Body Scrubs and Wraps"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "first_name": "Surya",
+      "last_name": "Susanto",
+      "location": "POINT(110.4079 -7.0148)",
+      "experience_years": 8,
+      "photo": "https://randomuser.me/api/portraits/men/22.jpg",
+      "age": 30,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.6,
+      "services": [
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        },
+        {
+          "id": 5,
+          "name": "Reflexology"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "first_name": "Ratih",
+      "last_name": "Setiawan",
+      "location": "POINT(110.4034 -7.0196)",
+      "experience_years": 5,
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "age": 28,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.5,
+      "services": [
+        {
+          "id": 4,
+          "name": "Aromatherapy Massage"
+        },
+        {
+          "id": 6,
+          "name": "Facial Treatments"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "first_name": "Hadi",
+      "last_name": "Santoso",
+      "location": "POINT(110.4067 -7.0255)",
+      "experience_years": 7,
+      "photo": "https://randomuser.me/api/portraits/men/24.jpg",
+      "age": 30,
+      "gender": "male",
+      "is_available": false,
+      "rating" 4.1,
+      "services": [
+        {
+          "id": 1,
+          "name": "Deep Tissue Massage"
+        },
+        {
+          "id": 7,
+          "name": "Body Scrubs and Wraps"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "first_name": "Sari",
+      "last_name": "Widodo",
+      "location": "POINT(110.4121 -6.9959)",
+      "experience_years": 4,
+      "photo": "https://randomuser.me/api/portraits/women/25.jpg",
+      "age": 27,
+      "gender": "female",
+      "is_available": true,
+      "rating" 4.5,
+      "services": [
+        {
+          "id": 2,
+          "name": "Swedish Massage"
+        },
+        {
+          "id": 8,
+          "name": "Acupuncture"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "first_name": "Hendri",
+      "last_name": "Susanto",
+      "location": "POINT(110.3983 -7.0072)",
+      "experience_years": 3,
+      "photo": "https://randomuser.me/api/portraits/men/26.jpg",
+      "age": 26,
+      "gender": "male",
+      "is_available": true,
+      "rating" 4.9,
+      "services": [
+        {
+          "id": 5,
+          "name": "Reflexology"
+        },
+        {
+          "id": 8,
+          "name": "Acupuncture"
+        }
+      ]
+    }
+]
